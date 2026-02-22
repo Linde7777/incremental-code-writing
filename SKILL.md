@@ -18,8 +18,6 @@ Examples of logical units:
 * Data structure definition
 * Core function skeleton
 * A single functional module
-* I/O handling
-* Error handling logic
 
 # Recommended Build Process
 
